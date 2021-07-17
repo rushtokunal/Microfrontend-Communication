@@ -1,3 +1,5 @@
+![MFE Communication](https://github.com/rushtokunal/Microfrontend-Communication/blob/main/images/MFE-Communication.png)  
+
 To run this locally:  
 1) clone the repo to your local  
 2) cd ../cart  
